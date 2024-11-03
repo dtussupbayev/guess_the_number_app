@@ -18,3 +18,29 @@ A simple cross-platform Flutter application where the user attempts to guess a r
 - [BLoC](https://pub.dev/packages/flutter_bloc) for state management
 - [bloc_test](https://pub.dev/packages/talker_bloc_logger) for testing BLoC
 - [talker_bloc_logger](https://pub.dev/packages/talker_bloc_logger) for logging BLoC
+
+## Setup and Installation
+
+1. Clone the repository:
+   
+   ```
+   git clone https://github.com/dtussupbayev/guess_the_number_app.git
+   ```
+2. Navigate to the project folder:
+    ```
+    cd flutter_guess_number_game
+    ```
+3. Install dependencies:
+    ```
+    flutter pub get
+    ```
+4. Run the app:
+    ```
+    flutter run
+    ```
+## Running Tests
+
+To run the tests, use the following command:
+```
+flutter test
+```
