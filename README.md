@@ -19,7 +19,7 @@ https://github.com/user-attachments/assets/4b70ce31-6a8f-4b54-a475-f69068a9106d
 - [Flutter](https://flutter.dev/)
 - [Dart](https://dart.dev/)
 - [BLoC](https://pub.dev/packages/flutter_bloc) for state management
-- [bloc_test](https://pub.dev/packages/talker_bloc_logger) for testing BLoC
+- [bloc_test](https://pub.dev/packages/bloc_test) for testing BLoC
 - [talker_bloc_logger](https://pub.dev/packages/talker_bloc_logger) for logging BLoC
 
 ## Setup and Installation
